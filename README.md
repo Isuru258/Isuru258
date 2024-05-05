@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Isuru258
 - 👀 I’m interested in web disigning and programming
-- 🌱 I’m currently learning web development
+- 🌱 I’m currently learning web development and python gui designing
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
